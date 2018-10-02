@@ -1,0 +1,13 @@
+"https://api.blockcypher.com/v1/bcy/test/addrs?token=0a99eca5eafa4c28883c1f08730ec75d",
+
+[private] => f505b76bd6656086c6cc0fd6900649a43294c1b1b8637b32098229f693db97d8
+    [public] => 0229e90ea344befe5379d6933623362fd4c80ff682dca8988f21f80fcaaeb65274
+    [address] => BvsLoLTNPbdnNmtuAwF13ZeY9kV5vCkRwZ
+    [wif] => BwYKe2H4aZkf3Me2bRqLzqag9SrQMmmrKYbjBLyp21K67fW3meRR
+
+
+"https://api.blockcypher.com/v1/bcy/test/faucet?token=0a99eca5eafa4c28883c1f08730ec75d",
+
+    (
+    [tx_ref] => c17ca07df47772ace3fe1a49d3c7687d286b1dffe7491467516276c75cba40b8
+)

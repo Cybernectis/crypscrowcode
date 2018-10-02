@@ -1,0 +1,43 @@
+[21-Apr-2018 11:31:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'forge'@'localhost' (using password: NO) in /home/gkatkani/public_html/crypscrow/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:46
+Stack trace:
+#0 /home/gkatkani/public_html/crypscrow/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(46): PDO->__construct('mysql:host=127....', 'forge', '', Array)
+#1 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(64): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'forge', '', Array)
+#2 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(43): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'forge', '', Array)
+#3 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host in /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[21-Apr-2018 11:31:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'forge'@'localhost' (using password: NO) in /home/gkatkani/public_html/crypscrow/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:46
+Stack trace:
+#0 /home/gkatkani/public_html/crypscrow/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(46): PDO->__construct('mysql:host=127....', 'forge', '', Array)
+#1 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(64): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'forge', '', Array)
+#2 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(43): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'forge', '', Array)
+#3 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host in /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[21-Apr-2018 11:32:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'forge'@'localhost' (using password: NO) in /home/gkatkani/public_html/crypscrow/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:46
+Stack trace:
+#0 /home/gkatkani/public_html/crypscrow/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(46): PDO->__construct('mysql:host=127....', 'forge', '', Array)
+#1 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(64): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'forge', '', Array)
+#2 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(43): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'forge', '', Array)
+#3 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host in /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[21-Apr-2018 11:32:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'forge'@'localhost' (using password: NO) in /home/gkatkani/public_html/crypscrow/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:46
+Stack trace:
+#0 /home/gkatkani/public_html/crypscrow/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(46): PDO->__construct('mysql:host=127....', 'forge', '', Array)
+#1 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(64): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'forge', '', Array)
+#2 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(43): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'forge', '', Array)
+#3 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host in /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[21-Apr-2018 11:35:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'forge'@'localhost' (using password: NO) in /home/gkatkani/public_html/crypscrow/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:46
+Stack trace:
+#0 /home/gkatkani/public_html/crypscrow/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(46): PDO->__construct('mysql:host=127....', 'forge', '', Array)
+#1 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(64): Doctrine\DBAL\Driver\PDOConnection->__construct('mysql:host=127....', 'forge', '', Array)
+#2 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(43): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=127....', 'forge', '', Array)
+#3 /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host in /home/gkatkani/public_html/crypscrow/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 664
+[02-May-2018 08:09:57 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/gkatkani/public_html/crypscrow/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[02-May-2018 08:10:00 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/gkatkani/public_html/crypscrow/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[02-May-2018 08:10:00 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/gkatkani/public_html/crypscrow/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[02-May-2018 08:10:05 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/gkatkani/public_html/crypscrow/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[02-May-2018 08:10:05 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/gkatkani/public_html/crypscrow/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[02-May-2018 08:10:05 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/gkatkani/public_html/crypscrow/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[02-May-2018 08:10:06 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/gkatkani/public_html/crypscrow/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[02-May-2018 08:10:06 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/gkatkani/public_html/crypscrow/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[02-May-2018 08:10:06 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/gkatkani/public_html/crypscrow/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[02-May-2018 08:10:10 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/gkatkani/public_html/crypscrow/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[02-May-2018 08:10:10 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/gkatkani/public_html/crypscrow/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[02-May-2018 08:10:13 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/gkatkani/public_html/crypscrow/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[02-May-2018 08:10:13 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/gkatkani/public_html/crypscrow/vendor/vlucas/phpdotenv/src/Loader.php on line 345
